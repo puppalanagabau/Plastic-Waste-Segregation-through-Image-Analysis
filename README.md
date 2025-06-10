@@ -21,15 +21,12 @@ NumPy & Pandas** (Data handling)
 The model is trained on a curated dataset containing images of **various plastic waste categories**, ensuring diverse and accurate classification.  
 
 ## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/plastic-waste-segmentation
-2.	Install dependencies: 
-3.	pip install -r requirements.txt
-4.	Run the preprocessing script: 
-5.	python preprocess.py
-6.	Train the model: 
-7.	python train.py
+1.	Install dependencies: 
+2.	pip install -r requirements.txt
+3.	Run the preprocessing script: 
+4.	python preprocess.py
+5.	Train the model: 
+6.	python train.py
 Model Performance
 The deep learning model achieves 92% classification accuracy. Evaluation metrics include precision, recall, and F1-score.
 Results
